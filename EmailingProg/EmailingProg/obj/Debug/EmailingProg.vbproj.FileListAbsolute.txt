@@ -1,0 +1,23 @@
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\bin\Debug\EmailingProg.exe.config
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\bin\Debug\EmailingProg.exe
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\bin\Debug\EmailingProg.pdb
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\bin\Debug\EmailingProg.xml
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.body_Mail.resources
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.login_Mail.resources
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.Resources.resources
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.vbproj.GenerateResource.Cache
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.exe
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.xml
+C:\Users\xx50\AppData\Local\Temporary Projects\EmailingProg\obj\Debug\EmailingProg.pdb
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\bin\Debug\EmailingProg.exe.config
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.exe
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.xml
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.pdb
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\bin\Debug\EmailingProg.exe
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\bin\Debug\EmailingProg.pdb
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\bin\Debug\EmailingProg.xml
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.body_Mail.resources
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.login_Mail.resources
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.Resources.resources
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.splash_Screen.resources
+C:\Users\xx50\Documents\Visual Studio 2012\Projects\EmailingProg\EmailingProg\obj\Debug\EmailingProg.vbproj.GenerateResource.Cache
