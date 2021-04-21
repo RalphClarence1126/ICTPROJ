@@ -13,7 +13,8 @@ Public Class body_Mail
     Private Sub body_Recipient_TextChanged(sender As Object, e As EventArgs) Handles body_Recipient.TextChanged
         ' Check recipient email if correct
         ' Currently supports gmail as it is widely used
-        If body_Recipient.Text.Contains("@gmail.com") Then
+        ' Check if text length is greater than 10 because that is how long "@gmail.com" is
+        If body_Recipient.TextLength > 10 And body_Recipient.Text.Contains("@gmail.com") Then
             bodyVar_Recipient = body_Recipient.Text
             body_Subject.Enabled = True ' Enable subject textbox
             body_Body.Enabled = True ' Enable body textbox
