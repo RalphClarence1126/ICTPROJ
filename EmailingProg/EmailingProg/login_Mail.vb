@@ -6,7 +6,8 @@
     Private Sub login_Email_TextChanged(sender As Object, e As EventArgs) Handles login_Email.TextChanged
         ' Check user email if correct
         ' Currently supports gmail as it is widely used
-        If login_Email.Text.Contains("@gmail.com") Then
+        ' Check if text length is greater than 10 because that is how long "@gmail.com" is
+        If login_Email.TextLength > 10 And login_Email.Text.Contains("@gmail.com") Then
             login_Password.Enabled = True ' Enable password textbox
         Else
             login_Password.Enabled = False ' Disable password textbox
